@@ -1,0 +1,14 @@
+[
+{
+  "modid": "jungleairship",
+  "name": "Jungle Airship",
+  "description": "Мир-джунгли с ямами и редкими областями, дирижабль с физикой: ставь блоки на палубу, лети, добавляй топливо. Админ-команды /airship.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "authorList": ["SuperKirill2020"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
